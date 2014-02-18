@@ -1,0 +1,20 @@
+This document is to report any known bugs. To report a bug, simply type 
+the issue related to the action performed that causes the issue. 
+the topmost entry will be the most recent, as bugs are confirmed and fixed
+they will be documented in a separate document. 
+
+1)
+
+
+
+
+
+
+2)
+
+
+
+
+
+
+3)
